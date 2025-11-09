@@ -7,7 +7,7 @@ using tyuiu.cources.programming.interfaces.Sprint4;
 
 namespace Tyuiu.AxyonovMA.Sprint4.Task5.V5.Lib
 {
-    public class Class1 : ISprint4Task5V5
+    public class Class1 : ISprint4Task5V25
     {
         // Возвращает сумму положительных элементов двумерного массива
         public int Calculate(int[,] array)
